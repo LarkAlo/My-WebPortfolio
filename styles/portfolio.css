@@ -65,8 +65,27 @@ p {
   padding: 60px 20px;
 }
 
+.content-container .live {
+  text-decoration: none;
+  color: black;
+}
+
+.content-container .live:hover {
+  cursor: pointer;
+  color: #be3144;
+}
+
+.content-container .source {
+  text-decoration: none;
+  color: #585c5e;
+}
+
+.content-container .source:hover {
+  color: #be3144;
+}
+
 .content h1 {
-  font-size: 64px;
+  font-size: 45px;
   line-height: 80px;
 }
 
