@@ -84,6 +84,10 @@ p {
   color: #be3144;
 }
 
+.content-container .profile {
+  border-radius: 50%
+}
+
 .content h1 {
   font-size: 45px;
   line-height: 80px;
