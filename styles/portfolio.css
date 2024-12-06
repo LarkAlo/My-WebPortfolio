@@ -146,6 +146,10 @@ p {
   padding-right: 0;
 }
 
+.weatherapp {
+  padding-left: 23px;
+}
+
 nav {
   padding: 20px 0;
 }
